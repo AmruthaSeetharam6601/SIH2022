@@ -1,29 +1,34 @@
-# swap
+SWAP — Student Welfare Application Portal
 
-A new Flutter project.
+Smart India Hackathon 2022 | Flutter | Firebase | Android Studio
 
-## Getting Started
+SWAP (Student Welfare Application Portal) is a mobile application developed to monitor and ensure safety in schools by empowering students, teachers, and parents to report safety concerns anonymously. The system intelligently escalates issues to district and state-level authorities based on severity and community engagement.
 
-This project is a starting point for a Flutter application.
+This project was developed as part of the Smart India Hackathon 2022, under the Ministry of Education, Government of India, by a team of six members.
 
-A few resources to get you started if this is your first Flutter project:
+🚀 Key Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Anonymous Reporting: User identities are securely masked to ensure privacy and encourage honest reporting.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Multi-User Access: Supports students, teachers, and parents with role-based access.
 
+Escalation Mechanism: Automatically forwards unresolved or high-priority issues to higher authorities.
 
+Real-Time Updates: Firebase backend ensures seamless data synchronization and instant notifications.
 
+User-Friendly Interface: Built with Flutter for a clean, modern, and responsive design.
 
-SWAP (STUDENT WELFARE APPLICATION PORTAL) :-Smart India Hackathon 2022 -Flutter,Firebase,Android Studio
-DEVELOPED AN APP ”MONITORING SAFETY IN SCHOOLS BY THE SCHOOL, STUDENTS, TEACHERS, AND PARENTS, WITH
-THE ESCALATION OF ISSUES TO DISTRICT AND STATE LEVEL” FOR THE MINISTRY OF EDUCATION, GOVERNMENT OF
-INDIA AS A TEAM OF SIX MEMBERS.THE IDENTITY OF THE PERSON WHO POSTS THE COMPLAINT IS MASKED, (AUG
--2022
+🧩 Tech Stack
 
+Frontend: Flutter 2.10
+
+Backend: Firebase API
+
+IDE: Android Studio 2021.1.1
+
+🏆 Recognition
+
+Developed for the Smart India Hackathon 2022, organized by the Ministry of Education, Government of India.
 
 
 ![WhatsApp Image 2022-09-14 at 23 30 10(2)](https://user-images.githubusercontent.com/76790667/190328935-b47e9aa7-fe72-45e7-919f-a7f5a84f41ac.jpeg)
@@ -34,3 +39,4 @@ INDIA AS A TEAM OF SIX MEMBERS.THE IDENTITY OF THE PERSON WHO POSTS THE COMPLAIN
 
 ://user-images.githubusercontent.com/76790667/190328915-73463f1f-6843-44c4-aeb7-32b606f3cf0d.jpeg)
 ![WhatsApp Image 2022-09-14 at 23 30 11](https://user-images.githubusercontent.com/76790667/190328949-2fe74696-6a74-462a-92f9-0163a4945106.jpeg)
+
